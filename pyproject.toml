@@ -1,0 +1,10 @@
+[project]
+name = "dependabot-group-update"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "aiohttp==3.14.2",
+    "requests==2.32.4",
+]
